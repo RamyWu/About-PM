@@ -3,7 +3,7 @@
 Add files.
 
 - 161024：PMTribeWelcome.md
-- 161024：MyFirstLiveAboutPM.md
+- 161024：MyFirstLive.md
 
 
 
